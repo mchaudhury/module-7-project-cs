@@ -1,6 +1,6 @@
-// Part 3 - write code for javascript problems
+// Part 3 - write code
 
-// Problem 1 - Sum Zero: Write a function that takes in an array of numbers. The function should return True if any two numberss in list sum to 0, and false otherwise.
+// Problem 1 - Sum Zero: Write a function that takes in an array of numbers.The function should return True if any two numberss in list sum to 0, and false otherwise.
 
 // this solution has runtime complexity O(n^2)
 
